@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Bárbara Victoria
+
 <img  width= "1400" height="410 " src="https://cdn.discordapp.com/attachments/863681090957737989/874784666186547220/unknown.png"/>                                                             
  <div>
   <a href="https://github.com/httpbabs">
