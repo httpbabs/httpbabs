@@ -1,4 +1,5 @@
 ## Oiii! Eu sou a Bárbara Victoria
+<img  width= "1400" height="430 " src="https://cdn.discordapp.com/attachments/863681090957737989/874784666186547220/unknown.png"/>                                                             
  <div>
   <a href="https://github.com/httpbabs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpbabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
