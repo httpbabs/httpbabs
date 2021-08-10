@@ -21,3 +21,4 @@
  
 </div>
 
+  ![Snake animation]
