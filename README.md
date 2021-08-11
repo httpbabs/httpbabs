@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Bárbara Victoria Machado
+
  <div>
  <img  width= "1400" height="375" src="https://cdn.discordapp.com/attachments/859413388576686110/874785705728032798/unknown.png" />
   <a href="https://github.com/httpbabs">
