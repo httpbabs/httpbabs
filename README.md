@@ -1,5 +1,6 @@
 # Oiii! Eu sou a Bárbara Victoria Machado
  <div>
+ <img  width= "1400" height="375" src="https://cdn.discordapp.com/attachments/859413388576686110/874785705728032798/unknown.png" />
   <a href="https://github.com/httpbabs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpbabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpbabs&layout=compact&langs_count=7&theme=dracula"/>
